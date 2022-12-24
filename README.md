@@ -1,8 +1,8 @@
-# TDP-TEAM4-2022
+# TDP-TEAM4-2022-Melbourne-Transit
 
-## WELCOME TEAM 
+## Bus Replacement Prototype - React Native Application
 
-To get started:
+Sounds interesting? Follow these steps below:
 
 1. Clone the git repository and access as you'd like (I use Github desktop and VScode from there)
 
