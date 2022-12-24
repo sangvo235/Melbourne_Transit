@@ -12,4 +12,4 @@ Sound interesting? Follow these steps below:
 
 4. To check out expo commands: npx expo -h
 
-Good luck!
+Good luck! 😃
