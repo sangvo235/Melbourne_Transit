@@ -2,7 +2,7 @@
 
 ## Bus Replacement Prototype - React Native Application
 
-Sounds interesting? Follow these steps below:
+Sound interesting? Follow these steps below:
 
 1. Clone the git repository and access as you'd like (I use Github desktop and VScode from there)
 
