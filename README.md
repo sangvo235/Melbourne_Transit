@@ -1,4 +1,5 @@
-# 🚍 Melbourne Transit / Bus Replacement Prototype - React Native App 🚍
+# 🚍 Melbourne Transit - React Native App 🚍
+## Bus Replacement Prototype
 ## Technology Design Project Team 4 Semester 2 2022 
 
 Sound interesting? Follow these steps below:
