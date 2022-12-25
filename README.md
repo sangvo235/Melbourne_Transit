@@ -1,5 +1,5 @@
 # 🚍 TDP-T4-S2-2022-Melbourne-Transit 🚍
-## Bus Replacement Prototype - React Native App 
+## Bus Replacement Prototype - React Native Application
 
 Sound interesting? Follow these steps below:
 
