@@ -1,6 +1,5 @@
-# TDP-TEAM4-2022-Melbourne-Transit 🚍
-
-## Bus Replacement Prototype - React Native Application
+# 🚍 Melbourne Transit / Bus Replacement Prototype - React Native App 🚍
+## Technology Design Project Team 4 Semester 2 2022 
 
 Sound interesting? Follow these steps below:
 
